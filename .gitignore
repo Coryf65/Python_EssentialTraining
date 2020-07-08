@@ -1,4 +1,1 @@
-# Ignore the following files to exclude from Source Control
-
-# VS Code
-*.vscode
+/.vscode
