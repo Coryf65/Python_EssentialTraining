@@ -3,6 +3,8 @@
 # Copyright 2010-2019 The BearHeart Gorup, LLC
 # updated 2019-12-02 for python 3.8
 
+# this is an exmaple of creating your own Module in Python
+
 import sys
 import time
 
